@@ -12,7 +12,7 @@ Pour utiliser les macros de ce dépôt, vous devez ajouter ce dépôt aux [dépe
     "name": "my_project",
     "dependencies": {
         "@dataform/core": "^2.0.3",
-        "my-package": "https://github.com/quickbi/my-package/archive/main.tar.gz"
+        "my-package": "https://github.com/nizar2yas/my-package/archive/main.tar.gz"
     }
 }
 ```
